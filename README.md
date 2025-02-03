@@ -13,46 +13,35 @@ A Simple Portfolio app build with Django.
 git clone https://github.com/Avanishpatidar/Demo-portfolio-django-project.git
 ```
 
-## Create a virtual environment :
-
-```bash
-$ python -m venv .venv
-```
-
-## Activate the virtual environment on Windows :
-
-```bash
-$ source venv/Scripts/activate
-```
 
 ## To install Django :
 
 ```bash
-$ pip install django
+pip install django
 ```
 
 ## For Database setup :
 
 ```bash
-$ python manage.py makemigrations
+python manage.py makemigrations
 ```
 
 ## Apply the migrations :
 
 ```bash
-$ python manage.py migrate
+python manage.py migrate
 ```
 
 ## To create an superuser account, use this command :
 
 ```bash
-$ python manage.py createsuperuser
+python manage.py createsuperuser
 ```
 
 ## Finally, run the development server :
 
 ```bash
-$ python manage.py runserver
+python manage.py runserver
 ```
 
-<b>The project will be available at :   </b>  **http://localhost:8000**
+
