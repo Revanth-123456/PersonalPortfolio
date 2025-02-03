@@ -10,7 +10,7 @@ A Simple Portfolio app build with Django.
 ## First, clone the repository to your local machine :
 
 ```bash
-git clone https://github.com/Avanishpatidar/Demo-portfolio-django-project.git
+git clone https://github.com/Revanth-123456/PersonalPortfolio/tree/3c711980609daa5a7c4784ffba4b0c9a89456887/Demo-portfolio-django-project/portfolio.git
 ```
 
 
