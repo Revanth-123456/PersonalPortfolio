@@ -2,8 +2,6 @@
 
 A Simple Portfolio app build with Django.
 
-# Live Demo : 
-<h2>link</h2>
 
 # Running the Project Locally
 
